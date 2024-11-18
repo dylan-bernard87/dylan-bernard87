@@ -1,5 +1,7 @@
-👋 Hello, my name is Dylan and I'm a French FullStack web developer in the making
+# Hello 👋
 
-💻 Vue.js, Symfony and docker lover
+I'm Dylan, a French FullStack web developer passionate by building Web experiences.
 
-You can find my portfolio at the following address https://dylan-bernard.com/
+I'm mainly working with Symfony, Docker and Vue/Nuxt.js but I love build creative experience with Three.js.
+
+You can find more details about me and my skills on my portfolio : https://dylan-bernard.com/
